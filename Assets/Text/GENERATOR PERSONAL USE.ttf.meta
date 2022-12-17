@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8b057b0a6e915af40b801f975bfb3e44
+timeCreated: 1523690460
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GENERATOR PERSONAL USE
+  fontNames:
+  - GENERATOR PERSONAL USE
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
